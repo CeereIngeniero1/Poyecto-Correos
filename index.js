@@ -126,4 +126,4 @@ ejecutarProceso();
 setInterval(() => {
   console.log("⏳ Revisando recordatorios...");
   ejecutarProceso();
-}, 5 * 60 * 1000);
+}, 20 * 60 * 1000);
